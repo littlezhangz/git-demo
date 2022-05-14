@@ -2,3 +2,4 @@ hello word master
 hello word main
 hello word two
 hello locations
+start ssh
